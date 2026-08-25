@@ -32,6 +32,7 @@ By automating the initial screening process, this tool assists financial institu
 ├── Housing_encoder.pkl            # Encoder for Housing feature
 ├── Saving accounts_encoder.pkl    # Encoder for Saving accounts feature
 └── Sex_encoder.pkl                # Encoder for Sex feature
+```
 
 ## Dataset
 The project utilizes the German Credit Dataset (german_credit_data.csv). It contains various attributes of loan applicants, including:
