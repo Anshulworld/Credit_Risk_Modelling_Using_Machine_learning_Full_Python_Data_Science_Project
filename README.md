@@ -57,7 +57,6 @@ pip install pandas numpy scikit-learn streamlit
 streamlit run app.py
 
 
-#Author
+# Author
 ## Anshul Kumar Singh
-
--> Data Science & Analytics Enthusiast
+# Data Science & Analytics Enthusiast
