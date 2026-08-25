@@ -56,7 +56,9 @@ pip install pandas numpy scikit-learn streamlit
 3. Run the web application: 
 streamlit run app.py
 
-4. Web Link: [http://localhost:8501/]
+Access the application:
+Open your web browser and navigate to the following link to use the app:
+http://localhost:8501/
 
 # Author
 ## Anshul Kumar Singh
