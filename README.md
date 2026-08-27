@@ -623,4 +623,3 @@ For questions, suggestions, or collaboration:
 
 ---
 
-*This README is a living document. Updates and improvements welcome!*
