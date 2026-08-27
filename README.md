@@ -451,7 +451,7 @@ print(f"Good Loan Probability: {risk_score[0]:.1%}")
 print(f"Bad Loan Probability: {risk_score[1]:.1%}")
 ```
 
-### Advanced: Custom Predictions with Feature Details
+### full detailed code for building the app
 
 ```python
 from pathlib import Path
