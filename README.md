@@ -589,14 +589,6 @@ We welcome contributions to improve this project!
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
-
-Free for academic and commercial use with attribution.
-
----
-
 ## 👨‍💻 Author
 
 **Anshulworld**
@@ -606,7 +598,7 @@ Free for academic and commercial use with attribution.
 - 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/anshulworld/)
 
 ### Acknowledgments
-- **Dataset:** German Credit Dataset community
+- **Dataset:** German Credit Dataset community 
 - **Framework:** Scikit-learn, Streamlit teams
 - **Inspiration:** Credit risk research papers and industry best practices
 
