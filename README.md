@@ -595,10 +595,10 @@ We welcome contributions to improve this project!
 
 - 📧 Email: [theanshulworld@gmail.com]
 - 🔗 GitHub: [@Anshulworld](https://github.com/Anshulworld)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/anshulworld/)
+- 💼 LinkedIn: [@anshulworld](https://www.linkedin.com/in/anshulworld/)
 
 ### Acknowledgments
-- **Dataset:** German Credit Dataset community 
+- **Dataset:** [German Credit Dataset community](https://www.kaggle.com/datasets/kabure/german-credit-data-with-risk)
 - **Framework:** Scikit-learn, Streamlit teams
 - **Inspiration:** Credit risk research papers and industry best practices
 
