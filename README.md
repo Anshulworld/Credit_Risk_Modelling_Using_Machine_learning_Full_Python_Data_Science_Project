@@ -1,4 +1,4 @@
-# Credit Risk Modelling Using Machine Learning 📊
+# Credit Risk Modelling Using Machine Learning 
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
