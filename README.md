@@ -60,3 +60,27 @@ Combining the benefits of boxplots and KDE plots to see the exact distribution s
 ```bash
 git clone [https://github.com/Anshulworld/Credit_Risk_Modelling_Using_Machine_learning_Full_Python_Data_Science_Project.git](https://github.com/Anshulworld/Credit_Risk_Modelling_Using_Machine_learning_Full_Python_Data_Science_Project.git)
 cd Credit_Risk_Modelling_Using_Machine_learning_Full_Python_Data_Science_Project
+```
+
+##2. Install dependencies:
+Make sure you have Python installed. Install the required libraries (you may need to create a requirements.txt or install these manually):
+
+pip install pandas numpy scikit-learn matplotlib seaborn streamlit 
+# Add other dependencies like Flask if app.py uses it instead of Streamlit
+
+##3. Run the application:
+
+python app.py
+# OR if it is a Streamlit app:
+# streamlit run app.py
+
+🧠 Model Details
+The final predictive model utilizes the Extra Trees Classifier (extra_trees_credit_model.pkl), an ensemble learning method that builds multiple decision trees and randomizes both the data and the features to prevent overfitting and improve accuracy.
+
+Categorical variables (like Sex, Housing, Checking, and Saving accounts) were systematically converted using sklearn label encoders, ensuring the model can accurately interpret the raw text inputs from users.
+
+👨‍💻 Author
+Anshulworld
+
+
+
